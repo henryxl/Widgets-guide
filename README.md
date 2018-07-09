@@ -5,4 +5,4 @@ Introduction to the use of widgets in Jupyter notebooks
 - listening for updates
 ## Widgets with data
 - creating a dropdown
-- widget interaction
+- using `interaction` with plotly
